@@ -1,0 +1,184 @@
+{
+  "quizzes": [
+    {
+      "title": "Qual seria sua casa em Hogwarts? (Harry Potter)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qual dessas qualidades você mais valoriza?",
+          "options": [
+            {"id": 1, "name": "Lealdade", "alias": "H"},
+            {"id": 2, "name": "Inteligência", "alias": "R"},
+            {"id": 3, "name": "Ambição", "alias": "S"},
+            {"id": 4, "name": "Coragem", "alias": "G"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Qual sua matéria preferida?",
+          "options": [
+            {"id": 1, "name": "Poções", "alias": "S"},
+            {"id": 2, "name": "Defesa Contra as Artes das Trevas", "alias": "G"},
+            {"id": 3, "name": "Feitiços", "alias": "R"},
+            {"id": 4, "name": "Herbologia", "alias": "H"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "O que você faria se encontrasse um amigo em perigo?",
+          "options": [
+            {"id": 1, "name": "Correria para ajudar", "alias": "G"},
+            {"id": 2, "name": "Ficaria ao lado dele", "alias": "H"},
+            {"id": 3, "name": "Tentaria achar uma solução lógica", "alias": "R"},
+            {"id": 4, "name": "Procuraria tirar vantagem da situação", "alias": "S"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Qual dessas criaturas mágicas você gostaria de encontrar?",
+          "options": [
+            {"id": 1, "name": "Dragão", "alias": "G"},
+            {"id": 2, "name": "Basilisco", "alias": "S"},
+            {"id": 3, "name": "Hipogrifo", "alias": "H"},
+            {"id": 4, "name": "Fênix", "alias": "R"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Como você preferiria passar seu tempo livre em Hogwarts?",
+          "options": [
+            {"id": 1, "name": "Lendo na biblioteca", "alias": "R"},
+            {"id": 2, "name": "Planejando novas estratégias", "alias": "S"},
+            {"id": 3, "name": "Aventurando-se pelo castelo", "alias": "G"},
+            {"id": 4, "name": "Conversando com os amigos no salão comunal", "alias": "H"}
+          ]
+        }
+      ],
+      "results": {
+        "G": "Você muito provavelmente seria da Grifinória!",
+        "R": "Você muito provavelmente seria da Corvinal!",
+        "S": "Você muito provavelmente seria da Sonserina!",
+        "H": "Você muito provavelmente seria da Lufa-Lufa!"
+      }
+    },
+    {
+      "title": "Você seria do Império ou da Aliança Rebelde? (Star Wars)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qual seria sua arma preferida?",
+          "options": [
+            {"id": 1, "name": "Força", "alias": "A"},
+            {"id": 2, "name": "Blaster", "alias": "B"},
+            {"id": 3, "name": "Sabre de Luz Vermelho", "alias": "A"},
+            {"id": 4, "name": "Sabre de Luz Azul", "alias": "B"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Qual seu objetivo principal?",
+          "options": [
+            {"id": 1, "name": "Restaurar a paz", "alias": "B"},
+            {"id": 2, "name": "Dominar a galáxia", "alias": "A"},
+            {"id": 3, "name": "Proteger os inocentes", "alias": "B"},
+            {"id": 4, "name": "Buscar vingança", "alias": "A"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Como você lida com os inimigos?",
+          "options": [
+            {"id": 1, "name": "Prendo para interrogatório", "alias": "A"},
+            {"id": 2, "name": "Destruo sem piedade", "alias": "A"},
+            {"id": 3, "name": "Procuro entender suas motivações", "alias": "B"},
+            {"id": 4, "name": "Procuro negociar primeiro", "alias": "B"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Qual é seu líder preferido?",
+          "options": [
+            {"id": 1, "name": "Luke Skywalker", "alias": "B"},
+            {"id": 2, "name": "Leia Organa", "alias": "B"},
+            {"id": 3, "name": "Darth Vader", "alias": "A"},
+            {"id": 4, "name": "Imperador Palpatine", "alias": "A"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Como você se sente em relação à ordem?",
+          "options": [
+            {"id": 1, "name": "A ordem deve ser imposta", "alias": "A"},
+            {"id": 2, "name": "A ordem deve ser conquistada com justiça", "alias": "B"},
+            {"id": 3, "name": "A ordem é essencial para a liberdade", "alias": "B"},
+            {"id": 4, "name": "A ordem é uma ilusão", "alias": "A"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você muito provavelmente seria parte do Império!",
+        "B": "Você muito provavelmente seria parte da Aliança Rebelde!"
+      }
+    },
+    {
+      "title": "Você seria Super Herói ou Super Vilão?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qual superpoder você gostaria de ter?",
+          "options": [
+            {"id": 1, "name": "Manipulação do tempo", "alias": "Z"},
+            {"id": 2, "name": "Super força", "alias": "X"},
+            {"id": 3, "name": "Invisibilidade", "alias": "Z"},
+            {"id": 4, "name": "Teletransporte", "alias": "X"},
+            {"id": 5, "name": "Telecinese", "alias": "Z"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Como você lidaria com um inimigo poderoso que ameaçasse sua cidade?",
+          "options": [
+            {"id": 1, "name": "Usaria sua inteligência para encontrar uma fraqueza e derrotá-lo estrategicamente.", "alias": "Z"},
+            {"id": 2, "name": "Tentaria negociar uma trégua e resolver o conflito pacificamente.", "alias": "X"},
+            {"id": 3, "name": "Derrotaria o inimigo com todas as forças, sem se importar com os danos colaterais.", "alias": "Z"},
+            {"id": 4, "name": "Protegeria os inocentes e enfrentaria o inimigo cara a cara.", "alias": "X"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Qual é a sua motivação para usar seus poderes?",
+          "options": [
+            {"id": 1, "name": "Obter riqueza e poder.", "alias": "Z"},
+            {"id": 2, "name": "Proteger as pessoas e fazer o bem.", "alias": "X"},
+            {"id": 3, "name": "Inspirar outros a serem melhores.", "alias": "X"},
+            {"id": 4, "name": "Ser adorado e temido por todos.", "alias": "Z"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você tivesse que escolher um parceiro, quem seria?",
+          "options": [
+            {"id": 1, "name": "Um cientista brilhante para desenvolver tecnologias avançadas.", "alias": "Z"},
+            {"id": 2, "name": "Um amigo leal com quem você pode contar em qualquer situação.", "alias": "X"},
+            {"id": 3, "name": "Alguém que compartilha das suas ambições de controle e poder.", "alias": "Z"},
+            {"id": 4, "name": "Um herói com forte senso de justiça e ética.", "alias": "X"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Como você reagiria ao receber um grande reconhecimento público?",
+          "options": [
+            {"id": 1, "name": "Usaria a fama para influenciar as pessoas a seguirem seus desejos.", "alias": "Z"},
+            {"id": 2, "name": "Usaria a oportunidade para motivar outros a se unirem ao bem.", "alias": "X"},
+            {"id": 3, "name": "Aproveitaria a atenção para aumentar seu poder e influência.", "alias": "Z"},
+            {"id": 4, "name": "Agradeceria e continuaria a trabalhar para ajudar os outros.", "alias": "X"}
+          ]
+        }
+      ],
+      "results": {
+        "X": "Você seria um Super-Herói!",
+        "Z": "Você seria um Super-Vilão!"
+      }
+    }
+  ]
+}
